@@ -1,0 +1,4 @@
+/.vs/
+*.csproj.user
+/TestPost/obj/
+/TestPost/bin/
